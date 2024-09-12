@@ -20,6 +20,7 @@ This project implements a sentiment analysis system using LLMs and NLP technique
 pip install -r requirements.txt
 
 python sentiment_analysis.py
+```
 
 ## Results
 - 89% accuracy in sentiment classification (positive, negative, neutral).
